@@ -4,6 +4,7 @@ image = '01_sshloginvscode.jpg'
 date = 2024-02-08
 lastmod = 2024-02-08
 draft = false
+tags = ['english']
 +++
 
 Following article describes how to enable You to login to a Remote Server with the industry standard 

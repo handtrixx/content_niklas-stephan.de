@@ -4,6 +4,7 @@ image = '01_Designer.jpeg'
 date = 2024-04-06
 lastmod = 2024-04-06
 draft = false
+tags = ['english']
 +++
 
 After years of tinkering with various CMS systems and even creating one of my own, 

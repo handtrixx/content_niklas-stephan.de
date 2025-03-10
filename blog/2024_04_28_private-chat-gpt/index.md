@@ -4,6 +4,7 @@ image = '01-a-chatbot.jpg'
 date = 2024-04-28
 lastmod = 2024-04-28
 draft = false
+tags = ['english']
 +++
 
 And another post about A.I… And why this headline? <a href="https://chat.openai.com/" target="_blank">OpenAI’s ChatGPT</a>,

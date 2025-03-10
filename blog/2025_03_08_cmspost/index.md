@@ -3,6 +3,7 @@ title = 'Herr Doktor, ich habe Wordpress, kann man da noch etwas machen?'
 date = 2025-03-05
 lastmod = 2025-03-06
 draft = true
+tags = ['deutsch']
 +++
 Auswahl eines CMS als Alternative zu Wordpress
 
