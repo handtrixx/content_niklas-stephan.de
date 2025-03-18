@@ -7,4 +7,4 @@ og_image: "images/my-awesome-image.jpg"
 og_url: "https://example.com/my-awesome-post"
 ---
 
-This is the home page.
+Content is set by theme
