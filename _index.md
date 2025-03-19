@@ -1,10 +1,10 @@
 ---
-title: "Home"
+title: "niklas-stephan.de"
 layout: "landing"
-og_title: "My Awesome Post"
-og_description: "A detailed description of my awesome post."
-og_image: "images/my-awesome-image.jpg"
-og_url: "https://example.com/my-awesome-post"
+og_title: "niklas-stephan.de"
+og_description: "Innovation Architect - CV and Blog"
+og_image: "images/hero.webp"
+og_url: "https://niklas-stephan.de"
 ---
 
 Content is set by theme
