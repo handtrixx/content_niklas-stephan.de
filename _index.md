@@ -1,5 +1,5 @@
 ---
-title: "niklas-stephan.de"
+title: "Home"
 layout: "landing"
 og_title: "niklas-stephan.de"
 og_description: "Innovation Architect - CV and Blog"
