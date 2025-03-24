@@ -3,7 +3,7 @@ title = 'Distrobox oder: "Ich baue mir die Welt, so wie sie mir gefällt"'
 image = '01_mac_time_machine_logo-56a5d49b5f9b58b7d0de9f0b-1.jpg'
 date = 2025-03-19
 lastmod = 2025-03-19
-draft = true
+draft = false
 tags = ['deutsch', 'linux']
 +++
 
