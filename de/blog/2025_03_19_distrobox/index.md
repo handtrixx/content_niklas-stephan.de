@@ -64,7 +64,7 @@ Ja, zumindest finde ich es lustig, auch auf einem Desktop zu sehen, dass alle Li
 Die Installationspakete für Distrobox sind mittlerweile in allen großen Distributionen integriert und stellen die einfachste Variante dar, Distrobox zu installieren. Die Installation selbst könnt ihr entweder über die grafische Oberfläche eurer Paketverwaltung durchführen oder wie folgt über die Kommandozeile.
 
 Für Fedora / CentOs / RedHat:
-```sh 
+```shell
 sudo dnf install distrobox 
 ```
 
@@ -84,7 +84,7 @@ starten. Denke dann aber daran, dass du für Updates selbst zuständig bist (die
 ## Erstellen eines neuen Containers
 Das Erstellen von Containern geht mit einem simplen Befehl auf der Kommandozeile vonstatten, z.B. so:
 
-```bash {linenos=inline hl_lines=[3,"6-8"] style=emacs}
+```bash
 distrobox create --name ubuntu_container --image ubuntu:latest
 ```
 
