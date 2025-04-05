@@ -1,5 +1,6 @@
 +++
 title = 'Visual Studio Code im Webinterface mit Docker und Caddy'
+slug = 'vscode-web'
 image = '01_vscode.png'
 date = 2024-05-12
 lastmod = 2024-05-12

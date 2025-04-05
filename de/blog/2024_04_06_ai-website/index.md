@@ -1,5 +1,6 @@
 +++
 title = 'My website charged with Aritificial Intelligence'
+slug = 'ai-on-website'
 image = '01_Designer.jpeg'
 date = 2024-04-06
 lastmod = 2024-04-06

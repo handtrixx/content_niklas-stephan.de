@@ -1,5 +1,6 @@
 +++
 title = 'Distrobox - oder: "Noch unabhängiger in Linux"'
+slug = 'distrobox'
 image = 'distrobox.png'
 date = 2025-03-19
 lastmod = 2025-03-19

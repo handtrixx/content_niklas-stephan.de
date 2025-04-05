@@ -1,5 +1,6 @@
 +++
 title = 'Learn Next.js - Chapter 18: Docker Environment'
+slug = 'next-js-18'
 image = '01_grafik-1.png'
 date = 2024-01-11
 lastmod = 2024-01-11

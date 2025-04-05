@@ -1,5 +1,6 @@
 +++
 title = 'Passwordless SSH Login to a Remote Server with Visual Studio Code'
+slug = 'ssh-copy-id'
 image = '01_sshloginvscode.jpg'
 date = 2024-02-08
 lastmod = 2024-02-08

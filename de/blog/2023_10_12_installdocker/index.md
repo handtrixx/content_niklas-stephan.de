@@ -1,5 +1,6 @@
 +++
 title = 'Docker Engine auf einem Linux Server installieren'
+slug = 'install-docker-engine'
 image = 'docker.webp'
 date = 2023-10-12
 lastmod = 2023-10-12

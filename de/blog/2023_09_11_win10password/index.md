@@ -1,5 +1,6 @@
 +++
 title = 'Passwort vergessen in Windows 10? (Fast) kein Problem!'
+slug = 'windows10-password-reset'
 image = '01_hero.jpg'
 date = 2023-09-11
 lastmod = 2023-09-11

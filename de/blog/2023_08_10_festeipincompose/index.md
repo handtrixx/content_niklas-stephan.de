@@ -1,5 +1,6 @@
 +++
 title = 'Feste IP-Adressen mit Docker Compose'
+slug = 'docker-fixed-ips'
 image = '01_Moby-share.png'
 date = 2023-08-10
 lastmod = 2023-08-10

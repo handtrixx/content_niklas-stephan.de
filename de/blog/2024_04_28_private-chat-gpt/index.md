@@ -1,5 +1,6 @@
 +++
 title = 'Setup your own ChatGPT clone in 5 minutes'
+slug = 'chatgpt-clone'
 image = '01-a-chatbot.jpg'
 date = 2024-04-28
 lastmod = 2024-04-28

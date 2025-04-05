@@ -1,5 +1,6 @@
 +++
 title = 'Reanimation: Auf MacOS mit 3 Fingern Fenster schieben'
+slug = 'move-3-trackpad'
 image = 'trackpad.webp'
 date = 2022-05-12
 lastmod = 2022-05-12

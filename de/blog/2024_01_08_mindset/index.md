@@ -1,5 +1,6 @@
 +++
 title = 'Mindset *****'
+slug = 'mindset'
 image = 'mindset.jpg'
 date = 2024-01-08
 lastmod = 2024-01-08

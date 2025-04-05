@@ -1,5 +1,6 @@
 +++
 title = 'Apple Time Machine Backup auf einen Netzwerkspeicher mit Linux und Docker Compose'
+slug = 'docker-time-machine'
 image = '01_mac_time_machine_logo-56a5d49b5f9b58b7d0de9f0b-1.jpg'
 date = 2025-02-21
 lastmod = 2025-02-21

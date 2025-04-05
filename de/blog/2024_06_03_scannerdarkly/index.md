@@ -1,5 +1,6 @@
 +++
 title = 'Der dunkle Schirm ****'
+slug = 'a-scanner-darkly'
 image = 'scanner.jpg'
 date = 2024-06-03
 lastmod = 2024-06-03

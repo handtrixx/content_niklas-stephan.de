@@ -1,5 +1,6 @@
 +++
 title = 'Noch ein Web Content Management System?! Ich stelle vor: nCMS'
+slug = 'ncms'
 image = '01_ncms_logo.webp'
 date = 2023-03-05
 lastmod = 2023-03-05

@@ -1,5 +1,6 @@
 +++
 title = 'Headless CMS, APIs und IoT für die Website'
+slug = 'headless-cms-2022'
 image = 'webshot-scaled-1.webp'
 date = 2022-10-02
 lastmod = 2022-10-02

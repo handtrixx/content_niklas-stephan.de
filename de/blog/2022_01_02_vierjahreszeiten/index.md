@@ -1,10 +1,11 @@
 +++
 title = 'Vier Jahreszeiten im Kasseler Bergpark'
+slug = "ks-four-seasons"
 image = '01_ich_und_herkules.webp'
 date = 2022-01-02
 lastmod = 2022-01-02
 draft = false
-tags = ['deutsch']
+tags = ['andere']
 +++
 
 Seit nun über einem Jahr leben wir mit dem Kasseler Bergpark direkt nebenan. In diesem Beitrag möchte ich gerne die Impressionen und Sehenswürdigkeiten, die sich im Lauf der Jahreszeiten bieten, teilen.

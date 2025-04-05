@@ -1,5 +1,6 @@
 +++
 title = 'IR-Remote Control 4.0 – Alles ins IoT!'
+slug = 'ir-remote'
 image = '01_ir_remote_teaser.webp'
 date = 2022-12-03
 lastmod = 2022-12-03

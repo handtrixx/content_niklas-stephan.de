@@ -1,5 +1,6 @@
 +++
 title = 'Web Analytics selbstgemacht mit Matomo'
+slug = 'matomo'
 image = 'matomo.webp'
 date = 2024-08-05
 lastmod = 2024-08-05

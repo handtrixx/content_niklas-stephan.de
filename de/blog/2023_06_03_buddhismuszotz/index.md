@@ -1,5 +1,6 @@
 +++
 title = 'Buddhismus für Praktiker von Volker Zotz *****'
+slug = 'buddhismus-fuer-praktiker'
 image = '01_buddha.jpg'
 date = 2023-06-03
 lastmod = 2023-06-03

@@ -1,5 +1,6 @@
 +++
 title = 'Mythos Motivation ***'
+slug = 'mythos-motivation'
 image = 'motivation.jpeg'
 date = 2024-07-04
 lastmod = 2024-07-04

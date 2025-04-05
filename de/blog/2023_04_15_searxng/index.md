@@ -1,5 +1,6 @@
 +++
 title = 'Deine eigene Suchmaschine mit SearXNG'
+slug = 'searxng'
 image = '01_searx.png'
 date = 2023-04-15
 lastmod = 2023-04-15

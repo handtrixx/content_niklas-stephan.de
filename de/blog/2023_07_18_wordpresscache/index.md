@@ -1,5 +1,6 @@
 +++
 title = 'Redis Objekt- und Caddy Seitencache für WordPress unter Docker einrichten'
+slug = 'wordpress-caches'
 image = '01_good.png'
 date = 2023-07-18
 lastmod = 2023-07-18

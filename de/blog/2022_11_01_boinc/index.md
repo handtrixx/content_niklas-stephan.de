@@ -1,5 +1,6 @@
 +++
 title = 'Rechenkraft für die Wissenschaft mit BOINC'
+slug = 'boinc'
 image = 'boinc_certificate_2022-04-01-2048x1371.webp'
 date = 2022-11-01
 lastmod = 2022-11-01

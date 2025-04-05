@@ -1,5 +1,6 @@
 +++
 title = 'Caddy als Reverse Proxy für Docker Compose Container'
+slug = 'caddy-docker'
 image = '01_caddy.png'
 date = 2024-03-12
 lastmod = 2024-03-12

@@ -1,5 +1,6 @@
 +++
 title = 'Die Farben der Magie ***'
+slug = 'colors-of-magic'
 image = '01_farbendermagie.jpg'
 date = 2023-05-02
 lastmod = 2023-05-02

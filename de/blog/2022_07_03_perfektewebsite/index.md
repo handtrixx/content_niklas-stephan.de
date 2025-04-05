@@ -1,5 +1,6 @@
 +++
 title = 'Die (beinahe) perfekte Website - Anforderungen'
+slug = 'perfect-website-2022'
 image = '01_setup_small.webp'
 date = 2022-07-03
 lastmod = 2022-07-03
