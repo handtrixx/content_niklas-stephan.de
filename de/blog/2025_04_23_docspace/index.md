@@ -1,0 +1,1 @@
+https://helpcenter.onlyoffice.com/docspace/installation/docspace-community-install-script.aspx
