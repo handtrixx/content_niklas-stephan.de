@@ -1,0 +1,1 @@
+cmake .. -DLibreGraphAPI_DIR=/home/handtrixxx/Downloads/desktop/build/libre-graph-api/out/cpp/client/build
