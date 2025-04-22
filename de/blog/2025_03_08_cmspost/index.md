@@ -1,6 +1,7 @@
 +++
 title = 'Herr Doktor, ich habe Wordpress, kann man da noch etwas machen?'
 slug = 'perfect-website-2025'
+summary = 'Ein umfassender Vergleich moderner CMS und Static Site Generators für 2025, erstellt von Niklas Stephan und seinem KI-Assistenten'
 date = 2025-04-22
 lastmod = 2025-04-22
 draft = false
