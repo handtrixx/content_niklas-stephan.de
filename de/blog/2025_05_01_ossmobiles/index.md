@@ -16,10 +16,6 @@ Deshalb konzentriert sich dieser unabhängige Test ganz auf den Aspekt des Daten
 
 ## Für ungeduldige Leser: Das Vergleichsergebnis
 
-Sehr gerne! Hier ist eine übersichtliche Rangordnung der getesteten Handys, basierend auf den genannten Kriterien, sowie kurze Kommentare zu jedem Gerät. Die Reihenfolge orientiert sich an Datenschutz, Nachhaltigkeit, Preis-Leistung und Alltagstauglichkeit.
-
----
-
 ### 1. **Fairphone 5**
 **Rang:** ★★★★★  
 **Kommentar:**  
