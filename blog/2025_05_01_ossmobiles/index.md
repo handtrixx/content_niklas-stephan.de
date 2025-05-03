@@ -1,12 +1,12 @@
 +++
-title = 'Das datenschutzfreundlichste Mobiltelefon 2025'
+title = 'Mobiltelefone 2025: Der King in Datenschutz und Nachhaltigkeit'
 slug = 'oss-mobiles-2025'
 image = 'mobile2025_web.webp'
 date = 2025-05-01
 lastmod = 2025-05-01
 draft = false
 tags = ['deutsch']
-summary = 'Ein Überblick über die nachhaltigsten und datenschutzfreundlichsten Mobiltelefone des Jahres 2025.'
+summary = 'Ein Überblick über nachhaltige Mobiltelefone 2025, die die Daten des Benutzers schützen.'
 +++
 
 Ständig werden neue Handys auf den Markt geworfen und von unabhängigen Agenturen, Zeitschriften und Personen getestet. Der Fokus dieser Tests liegt jedoch meist auf der Hardwareleistung des Geräts. Beim Betriebssystem wird in 99 % der Fälle einfach hingenommen, dass auf dem Gerät sowohl von Google als auch vom Hardwarehersteller eventuell unerwünschte und vor allem datenhungrige Applikationen vorinstalliert werden. In vielen Fällen lassen sich diese dann nicht einmal deinstallieren.  
@@ -16,61 +16,42 @@ Deshalb konzentriert sich dieser unabhängige Test ganz auf den Aspekt des Daten
 
 ## Für ungeduldige Leser: Das Vergleichsergebnis
 
-### 1. **Fairphone 5**
-**Rang:** ★★★★★  
-**Kommentar:**  
+Hier die Ergebnisse des Vergleichs im Überblick, eine genauere Beschreibung der einzelnen Handys und die Verglichstabelle befinden sich im Anhang.
+
+### Platz 1: Fairphone 5
+ 
 Das Fairphone 5 ist das nachhaltigste Gerät im Test. Es punktet mit modularer Bauweise, langer Ersatzteilverfügbarkeit und einem wechselbaren Akku. Die Hardware ist solide, die Kamera gut, und es gibt offiziellen Support für alternative Android-Versionen wie /e/OS und LineageOS. Wer Wert auf Datenschutz und Reparierbarkeit legt, findet hier die beste Option – auch wenn der Preis im oberen Bereich liegt.
 
----
 
-### 2. **Volla Phone X23**
-**Rang:** ★★★★☆  
-**Kommentar:**  
+### Platz 2: Volla Phone X23
+
 Das Volla Phone X23 kommt ab Werk mit einem Google-freien Android (Volla OS) und bietet einen wechselbaren Akku sowie robuste Bauweise (IP68, MIL-STD-810H). Die Hardware ist solide, die Kamera gut, und der Preis ist fair. Für Datenschutz-Fans, die ein robustes und alltagstaugliches Gerät suchen, eine sehr gute Wahl.
 
----
 
-### 3. **Google Pixel 8 Pro**
-**Rang:** ★★★★☆  
-**Kommentar:**  
+### Platz 3: Google Pixel 8 Pro
+
 Das Pixel 8 Pro bietet Top-Hardware, exzellente Kamera und lange Update-Garantie. Dank LineageOS-Support lässt sich ein Google-freies Android installieren, allerdings ist der Weg dahin nicht ganz trivial und der Akku ist nicht wechselbar. Wer Wert auf Kamera und Performance legt und bereit ist, das System umzubauen, bekommt hier ein sehr gutes Gesamtpaket.
 
----
+### Platz 4: Google Pixel 9
 
-### 4. **Google Pixel 9**
-**Rang:** ★★★★☆  
-**Kommentar:**  
 Das Pixel 9 ist ähnlich stark wie das 8 Pro, etwas kompakter und günstiger. Auch hier gibt es lange Updates und LineageOS-Support. Die Kamera ist hervorragend, der Akku fest verbaut. Für alle, die ein aktuelles, leistungsstarkes Gerät mit Custom-ROM-Option suchen, eine sehr gute Wahl.
 
----
+### Platz 5: Volla Quintus
 
-### 5. **Volla Quintus**
-**Rang:** ★★★★☆  
-**Kommentar:**  
 Das Volla Quintus ist das Flaggschiff von Volla, kommt ebenfalls mit Google-freiem Android und sehr guter Hardware. Der Akku ist wechselbar, das Display groß und hell. Der Preis ist allerdings recht hoch, was das Preis-Leistungs-Verhältnis etwas schmälert.
 
----
+### Platz 6: OnePlus 11 ###
 
-### 6. **OnePlus 11**
-**Rang:** ★★★★☆  
-**Kommentar:**  
 Das OnePlus 11 bietet Top-Hardware und ist für Custom-ROMs wie LineageOS geeignet. Der Akku ist allerdings nicht wechselbar und die Nachhaltigkeit ist nur durchschnittlich. Wer Wert auf Performance und ein gutes Preis-Leistungs-Verhältnis legt, findet hier ein starkes Gerät.
 
----
-
-### 7. **Motorola Edge 40 Pro**
-**Rang:** ★★★★☆  
-**Kommentar:**  
+### Platz 7: Motorola Edge 40 Pro
+ 
 Das Edge 40 Pro ist ein leistungsstarkes Gerät mit sehr guter Kamera und LineageOS-Support. Der Akku ist fest verbaut, die Reparierbarkeit eingeschränkt. Für Power-User, die ein Custom-ROM nutzen wollen, eine interessante Option.
 
----
+### Platz 8: Motorola Moto G32
 
-### 8. **Motorola Moto G32**
-**Rang:** ★★★☆☆  
-**Kommentar:**  
 Das Moto G32 ist das günstigste Gerät im Test und bietet solide Hardware für den Alltag. Es gibt LineageOS-Support, aber die Kamera und Performance sind nur durchschnittlich, und der Akku ist nicht wechselbar. Für Sparfüchse, die Wert auf Datenschutz legen, dennoch eine brauchbare Wahl.
 
----
 
 ## Open Source, Linux, Android und Google
 
@@ -106,16 +87,12 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 5. Der Akku hat eine hohe Kapazität.
 6. Der Preis sollte 700 € nicht überschreiten.
 
----
 
 ## Die Testkandidaten
 
 ### Volla Phone X23 (Volla OS – Android)
 
 ![Volla Phone X23](vollax23.webp)
-
-[Preisvergleich bei Heise](https://preisvergleich.heise.de/volla-phone-x23-volla-os-schwarz-a2961652.html)  
-[Herstellerseite](https://volla.online/de/volla-phone-x23/)
 
 **Betriebssystem:** Volla OS  
 **Display:** 6,1", 1560x720 Pixel, IPS, Gorilla Glass 5, 282 ppi  
@@ -139,14 +116,9 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Gewicht:** 270 g  
 **Preis:** 564 €
 
----
-
 ### Volla Quintus (Volla OS – Android)
 
 ![Volla Quintus](volla_quintus.jpg)
-
-[Preisvergleich bei Heise](https://preisvergleich.heise.de/volla-quintus-volla-os-a3408382.html)  
-[Herstellerseite](https://volla.online/de/volla-phone-quintus/)
 
 **Betriebssystem:** Volla OS (Android)  
 **Display:** 6,78", 2400x1080 Pixel, AMOLED, 120 Hz, 388 ppi  
@@ -167,8 +139,6 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Abmessungen:** 164,2 x 74,7 x 8,8 mm  
 **Gewicht:** 204,6 g  
 **Preis:** 719 €
-
----
 
 ### Google Pixel 8 Pro
 
@@ -196,13 +166,9 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Gewicht:** 213 g  
 **Preis:** 545 €
 
----
-
 ### Google Pixel 9
 
 ![Google Pixel 9](pixel9.webp)
-
-[Preisvergleich bei Heise](https://preisvergleich.heise.de/google-pixel-9-128gb-peony-ga05841-a3267968.html?hloc=at&hloc=de)
 
 **Betriebssystem:** Android 15 (Update), Android 14 (ab Werk), 7 Jahre Updates, LineageOS-Support  
 **Display:** 6,3", 2424x1080 Pixel, AMOLED, 60–120 Hz, 421 ppi  
@@ -226,13 +192,9 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Gewicht:** 198 g  
 **Preis:** 569 €
 
----
-
 ### Motorola Moto G32 128GB/6GB
 
 ![Motorola Moto G32](motorola_moto_g32.png)
-
-[Preisvergleich bei Heise](https://preisvergleich.heise.de/motorola-moto-g32-128gb-6gb-rose-gold-a2909899.html?hloc=at&hloc=de)
 
 **Betriebssystem:** Android 12 (ab Werk), LineageOS-Support  
 **Display:** 6,5", 2400x1080 Pixel, IPS, 60–90 Hz, 405 ppi  
@@ -256,8 +218,6 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Gewicht:** 184 g  
 **Preis:** 421 €
 
----
-
 ### Motorola Edge 40 Pro 256GB
 
 ![Motorola Edge 40 Pro](motorolla_edge.jpg)
@@ -278,13 +238,9 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Gewicht:** 199 g  
 **Preis:** 499 €
 
----
-
 ### Fairphone 5 256GB
 
 ![Fairphone 5](fairphone.webp)
-
-[Preisvergleich bei Heise](https://preisvergleich.heise.de/fairphone-5-transparent-a3011363.html)
 
 **Betriebssystem:** Android (LineageOS-Support)  
 **Display:** 6,46", 2770x1224 Pixel  
@@ -301,8 +257,6 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Abmessungen:** 161,6 x 75,8 x 9,6 mm  
 **Gewicht:** 212 g  
 **Preis:** 578 €
-
----
 
 ### OnePlus 11 128GB
 
@@ -324,13 +278,11 @@ Auf Basis der zuvor beschriebenen Ausgangslage bauen wir für unsere Bewertung f
 **Gewicht:** 205 g  
 **Preis:** 538 €
 
-
 ## Nicht bewertete Telefone
 
 - Volla Phone 22: nur 4 GB RAM, alter Prozessor  
 - Alle Apple-Geräte: wegen proprietärem OS  
 - Geräte mit weniger als 6 GB RAM oder ohne LineageOS-Unterstützung  
-
 
 ## Die Bewertungstabelle im Detail
 
@@ -350,11 +302,15 @@ Hier ist eine übersichtliche Vergleichstabelle für die Handys, basierend auf d
 
 **Legende zur Bewertung:**
 
-- ★★★★★ = erfüllt das Kriterium voll und ganz / Bestwert
-- ★★★★☆ = sehr gut, kleine Einschränkungen
-- ★★★☆☆ = durchschnittlich / akzeptabel
-- ★★☆☆☆ = unterdurchschnittlich / größere Einschränkungen
-- ★☆☆☆☆ = ungenügend
+★★★★★ = erfüllt das Kriterium voll und ganz / Bestwert
+
+★★★★☆ = sehr gut, kleine Einschränkungen
+
+★★★☆☆ = durchschnittlich / akzeptabel
+
+★★☆☆☆ = unterdurchschnittlich / größere Einschränkungen
+
+★☆☆☆☆ = ungenügend
 
 **Hinweise zur Bewertung:**
 
