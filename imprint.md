@@ -1,7 +1,6 @@
 ---
 title: "Impressum"
 layout: "page"
-language: "de"
 summary: "Rechtliche Informationen"
 ---
 

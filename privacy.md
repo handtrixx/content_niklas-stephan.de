@@ -1,7 +1,6 @@
 ---
 title: "Datenschutzerklärung"
 layout: "page"
-language: "de"
 summary: "Informationen zum Datenschutz auf niklas-stephan.de"
 ---
 
