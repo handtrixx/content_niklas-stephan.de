@@ -5,7 +5,7 @@ image = 'mobile2025_web.webp'
 date = 2025-05-01
 lastmod = 2025-05-01
 draft = false
-tags = ['deutsch']
+tags = ['Open Source', 'Hardware']
 summary = 'Ein Überblick über nachhaltige Mobiltelefone 2025, die die Daten des Benutzers schützen.'
 +++
 
